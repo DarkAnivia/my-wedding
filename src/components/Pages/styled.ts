@@ -13,18 +13,6 @@ export const Title = styled(TextStyled)`
   @media ${device.mobileS} {
     font-size: 60px;
   }
-  
-  @media ${device.tablet} {
-    font-size: 150px;
-  }
-  
-  @media ${device.laptop} {
-    font-size: 200px;
-  }
-  
-  @media ${device.laptopL} {
-    font-size: 200px;
-  }
 `;
 
 export const Page1Wrapper = styled.div`
