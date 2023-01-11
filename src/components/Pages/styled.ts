@@ -10,51 +10,28 @@ export const Title = styled(TextStyled)`
   z-index: 1;
   color: #FFF;
 
-  @media ${device.mobileS} {
-    font-size: 60px;
-  }
 `;
 
 export const Page1Wrapper = styled.div`
-  display: flex;
-  flex: 1;
+
   height: 25%;
   justify-content: center;
   align-items: center;
 `;
 
 export const Page2Wrapper = styled.div`
-  display: flex;
-  flex: 1;
+
   height: 100%;
   align-items: center;
-  
-  @media ${device.mobileS} {
-    justify-content: end;
-  }
-  
-  @media ${device.tablet} {
-    justify-content: center;
-  }
+
 `;
 
 export const Page3Wrapper = styled.div`
-  display: flex;
-  flex: 1;
+
   height: 100%;
   justify-content: center;
   align-items: center;
 
-  @media ${device.mobileS} {
-    flex-direction: column;
-    margin-top: 40px;
-    margin-bottom: 40px;
-  }
-
-  @media ${device.tablet} {
-    flex-direction: row;
-    margin: 40px;
-  }
 `;
 
 export const Page2Container = styled.div`
@@ -67,20 +44,6 @@ export const Page2Container = styled.div`
   ${TextStyled} {
     font-family: "Podkova", sans-serif;
   }
-
-  @media ${device.mobileS} {
-    margin: auto;
-    padding: 30px;
-  }
-
-  @media ${device.tablet} {
-    margin: 100px;
-    padding: 100px;
-    padding-top: 50px;
-    padding-bottom: 100px;
-  }
-
-  /* opacity: 0.5; */
 `;
 
 export const MapStyled = styled.iframe`

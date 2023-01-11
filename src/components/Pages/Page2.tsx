@@ -1,11 +1,13 @@
 import React from "react";
 import { Page2Wrapper, Page2Container } from "./styled";
 import { Text } from "../Text";
+import { Timer } from "../Timer/Timer";
 
 export const Page2: React.FC = () => {
   return (
     <Page2Wrapper>
       <Page2Container>
+      <Timer deadline="June, 3, 2023, 13:00"></Timer>
         <Text fontSize="32px" fontWeight="bold" paddingBottom="18px">
           Invitación
         </Text>

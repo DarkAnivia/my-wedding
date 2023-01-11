@@ -22,42 +22,6 @@
                 {
                     "label": "Салат из печени фермерского цыпленка с малиновым соусом",
                     "custom": false
-                },
-                {
-                    "label": "Салат с сочным ростбифом",
-                    "custom": false
-                },
-                {
-                    "label": "Тёплый салат из хрустящих баклажанов",
-                    "custom": false
-                },
-                {
-                    "label": "Овощной салат с яйцом пашот",
-                    "custom": false
-                },
-                {
-                    "label": "Оливье с бужениной",
-                    "custom": false
-                },
-                {
-                    "label": "Оливье с языком",
-                    "custom": false
-                },
-                {
-                    "label": "Оливье с креветками",
-                    "custom": false
-                },
-                {
-                    "label": "Цезарь с курицей",
-                    "custom": false
-                },
-                {
-                    "label": "Мимоза с запеченным лососем",
-                    "custom": false
-                },
-                {
-                    "label": "Чука",
-                    "custom": false
                 }
             ],
             "required": true

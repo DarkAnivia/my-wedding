@@ -7,13 +7,20 @@ import { GoogleFormComponent } from "../GoogleForm/GoogleFormComponent";
 
 export const Page5: React.FC = () => {
 
+
   return (
     <Page3Wrapper>
       <Page2Container>
-      <Form>
+      {/* <Form>
         <GoogleFormComponent form={form as GoogleForm}/>
-        </Form>
+        </Form> */}
+
+        blabla bla tenemos un formulario
       </Page2Container>
     </Page3Wrapper>
+
+    //"https://docs.google.com/forms/d/e/1FAIpQLSeIWL0C1PwlOx7jhD19VNirxMjBVAXUDS09b_YZ3bs33bMnXA/viewform"
+
+    
   );
 };
