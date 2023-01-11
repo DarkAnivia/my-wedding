@@ -11,9 +11,6 @@ export const Page2: React.FC = () => {
         <Text fontSize="32px" fontWeight="bold" paddingBottom="18px">
           Invitación
         </Text>
-        <Text fontSize="32px" paddingBottom="18px">
-          3 de Junio de 2023
-        </Text>
         <Text fontSize="20px">
           Inicio ceremonia
         </Text>
