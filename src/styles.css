@@ -41,7 +41,6 @@ body {
 
 .col-4 {
   float: left;
-  width: 25%;
 }
 
 .box {
@@ -50,10 +49,10 @@ body {
 }
 
 .box p {
-  font-size: 5vw;
+  font-size: 7vw;
   margin: 0;
 }
 
 .text {
-  font-size: 2.2vw;
+  font-size: 4vw;
 }

@@ -1,6 +1,7 @@
 import React from "react";
 import { Page3Wrapper, Page2Container } from "./styled";
 import { Text } from "../Text";
+import { Timer } from "../Timer/Timer";
 
 
 export const Page4: React.FC = () => {
@@ -10,6 +11,7 @@ export const Page4: React.FC = () => {
         <Text fontSize="18px" paddingBottom="18px">
           Placeholder.
         </Text>
+        <Timer deadline="June, 3, 2023, 13:00"></Timer>
 
       </Page2Container>
     </Page3Wrapper>

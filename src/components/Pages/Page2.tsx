@@ -1,21 +1,20 @@
 import React from "react";
 import { Page2Wrapper, Page2Container } from "./styled";
 import { Text } from "../Text";
-import { Timer } from "../Timer/Timer";
+import { Divider } from "../Divider";
 
 export const Page2: React.FC = () => {
   return (
     <Page2Wrapper>
       <Page2Container>
-      <Timer deadline="June, 3, 2023, 13:00"></Timer>
-        <Text fontSize="32px" fontWeight="bold" paddingBottom="18px">
-          Invitación
+        <Divider></Divider>
+
+        <Text fontSize="32px" fontWeight="bold" paddingBottom="18px" paddingTop="50px">
+          Agenda
         </Text>
-        <Text fontSize="20px">
-          Inicio ceremonia
-        </Text>
+        <Text fontSize="20px">Inicio Ceremonia</Text>
         <Text fontSize="32px" paddingBottom="20px">
-          -13:30-
+          -13:00-
         </Text>
         <Text fontSize="20px">Pica Pica</Text>
         <Text fontSize="32px" paddingBottom="20px">
@@ -28,6 +27,10 @@ export const Page2: React.FC = () => {
         <Text fontSize="20px">Baile</Text>
         <Text fontSize="32px" paddingBottom="20px">
           -17:00-
+        </Text>
+        <Text fontSize="20px">Recena y fin de fiesta</Text>
+        <Text fontSize="32px" paddingBottom="20px">
+          -21:00-
         </Text>
       </Page2Container>
     </Page2Wrapper>
