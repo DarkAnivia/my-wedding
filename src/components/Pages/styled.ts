@@ -49,6 +49,7 @@ export const Page2Container = styled.div`
 export const MapStyled = styled.iframe`
     width: 95vw;
     height: 35vh;
+    margin: 2%
 `;
 
 export const Form = styled.form`

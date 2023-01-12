@@ -27,11 +27,12 @@ body {
   margin: 5% 25%;
   width: 50%;
 }
-.battle-image{
-  width:95%;
+.battle-image, .hotel-image{
+  width:93%;
   margin: 2%;
   border: 5px double black;
 }
+
 
 .timer {
   background-color: rgba(255, 255, 255, 0.1);

@@ -5,7 +5,7 @@ import { TitleImg } from "./TitleImg";
 
 
 const ImgDiv = styled.div`
-background: white;
+background: #ffffffa8;
 margin-bot:30px
 width:100%;
 `;
