@@ -31,7 +31,7 @@ export const Page3: React.FC = () => {
         ></MapStyled>
         <Divider></Divider>
         <img className="hotel-image" src={Pica}></img>
-
+        <Divider></Divider>
       </Page2Container>
     </Page3Wrapper>
   );

@@ -8,9 +8,9 @@ export const Page4: React.FC = () => {
   return (
     <Page3Wrapper>
       <Page2Container>
-        <Text fontSize="18px" paddingBottom="18px">
+        {/* <Text fontSize="18px" paddingBottom="18px">
           Placeholder.
-        </Text>
+        </Text> */}
         <Timer deadline="June, 3, 2023, 13:00"></Timer>
 
       </Page2Container>

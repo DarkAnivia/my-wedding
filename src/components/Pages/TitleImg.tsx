@@ -1,6 +1,6 @@
 import React from "react";
 
-import Title from "../../images/Montse.png";
+import Title from "../../images/montse2.png";
 
 export const TitleImg = () => {
   return (
