@@ -47,8 +47,8 @@ export const Page2Container = styled.div`
 `;
 
 export const MapStyled = styled.iframe`
-    width: 95vw;
-    height: 35vh;
+    width: 95%;
+    height: 35%;
     margin: 2%
 `;
 

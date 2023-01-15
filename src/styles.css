@@ -10,6 +10,8 @@ html,
 body {
   position: relative;
   height: 100%;
+  max-width: 500px;
+  margin:auto;
 }
 
 
@@ -46,14 +48,14 @@ body {
 
 .box {
   font-weight: 500;
-  padding: 2.5vw;
+  padding: 20px;
 }
 
 .box p {
-  font-size: 7vw;
+  font-size: 20px;
   margin: 0;
 }
 
 .text {
-  font-size: 4vw;
+  font-size: 10px;
 }
