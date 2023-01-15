@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/wedding-invite/static/css/main.b59bb5a7.chunk.css",
+    "main.js": "/wedding-invite/static/js/main.c4a9c73e.chunk.js",
+    "main.js.map": "/wedding-invite/static/js/main.c4a9c73e.chunk.js.map",
+    "runtime-main.js": "/wedding-invite/static/js/runtime-main.77608a57.js",
+    "runtime-main.js.map": "/wedding-invite/static/js/runtime-main.77608a57.js.map",
+    "static/css/2.2274224d.chunk.css": "/wedding-invite/static/css/2.2274224d.chunk.css",
+    "static/js/2.2af2e80f.chunk.js": "/wedding-invite/static/js/2.2af2e80f.chunk.js",
+    "static/js/2.2af2e80f.chunk.js.map": "/wedding-invite/static/js/2.2af2e80f.chunk.js.map",
+    "index.html": "/wedding-invite/index.html",
+    "static/css/2.2274224d.chunk.css.map": "/wedding-invite/static/css/2.2274224d.chunk.css.map",
+    "static/css/main.b59bb5a7.chunk.css.map": "/wedding-invite/static/css/main.b59bb5a7.chunk.css.map",
+    "static/js/2.2af2e80f.chunk.js.LICENSE.txt": "/wedding-invite/static/js/2.2af2e80f.chunk.js.LICENSE.txt",
+    "static/media/entrada.7d22d46e.png": "/wedding-invite/static/media/entrada.7d22d46e.png",
+    "static/media/kidd.1379bda9.png": "/wedding-invite/static/media/kidd.1379bda9.png",
+    "static/media/mario.8b59d077.png": "/wedding-invite/static/media/mario.8b59d077.png",
+    "static/media/mega.efe0896d.png": "/wedding-invite/static/media/mega.efe0896d.png",
+    "static/media/montse2.9f675aa1.png": "/wedding-invite/static/media/montse2.9f675aa1.png",
+    "static/media/picapica.12c4039a.jpg": "/wedding-invite/static/media/picapica.12c4039a.jpg",
+    "static/media/prueba.9f141de5.png": "/wedding-invite/static/media/prueba.9f141de5.png",
+    "static/media/sonic.baa2414b.png": "/wedding-invite/static/media/sonic.baa2414b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77608a57.js",
+    "static/css/2.2274224d.chunk.css",
+    "static/js/2.2af2e80f.chunk.js",
+    "static/css/main.b59bb5a7.chunk.css",
+    "static/js/main.c4a9c73e.chunk.js"
+  ]
+}
