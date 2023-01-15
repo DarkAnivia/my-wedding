@@ -35,11 +35,33 @@ body {
   border: 5px double black;
 }
 
+.battle-image, .hotel-image:last-of-type
+{
+  margin-bottom:40px
+}
+
 
 .timer {
   background-color: rgba(255, 255, 255, 0.1);
   margin: auto;
   bottom: 10%;
+}
+
+.timer-image-l{
+  width: 15%;
+  padding-right: 65%
+}  
+
+.timer-image-r{
+  width: 15%;
+}
+
+.timer-up{
+  padding-top:40px
+}
+
+.timer-down{
+  padding-bottom:40px
 }
 
 .col-4 {
