@@ -66,6 +66,7 @@ body {
 
 .col-4 {
   float: left;
+  width: 80px;
 }
 
 .box {
