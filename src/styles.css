@@ -48,14 +48,17 @@ body {
 
 .box {
   font-weight: 500;
-  padding: 20px;
+  font-family: "Podkova", sans-serif;
+  padding: 10px;
 }
 
 .box p {
-  font-size: 20px;
+  font-size: 35px;
   margin: 0;
+  font-family: "Podkova", sans-serif;
 }
 
 .text {
-  font-size: 10px;
+  font-size: 15px;
+  font-family: "Podkova", sans-serif;
 }
