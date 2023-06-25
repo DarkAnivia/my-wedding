@@ -1,0 +1,108 @@
+#app { height: 100% }
+html { 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+html,
+body {
+  position: relative;
+  height: 100%;
+  max-width: 500px;
+  margin:auto;
+}
+
+
+body {
+  background: #eee;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+
+.title-image{
+  margin: 5% 0% 2% 0%;
+  width: 100%;
+}
+.battle-image, .hotel-image{
+  width:93%;
+  margin: 2%;
+  border: 5px double black;
+}
+
+.battle-image, .hotel-image:last-of-type
+{
+  margin-bottom:40px
+}
+
+
+.timer {
+  background-color: rgba(255, 255, 255, 0.1);
+  margin: auto;
+  bottom: 10%;
+}
+
+.timer-image-l{
+  width: 15%;
+  padding-right: 65%
+}  
+
+.timer-image-r{
+  width: 15%;
+}
+
+.timer-up{
+  padding-top:40px
+}
+
+.timer-down{
+  padding-bottom:40px
+}
+
+.col-4 {
+  float: left;
+  width: 80px;
+}
+
+.contact{
+  padding-bottom:18px;
+}
+
+.contact:last-child{
+  padding-bottom:40px;
+}
+
+i.fa{
+  font-size:17px;
+  padding-right: 6px;
+}
+
+i.fa:first-child{
+  font-size:15px
+}
+
+a{
+  color: black;
+}
+
+.box {
+  font-weight: 500;
+  font-family: "Podkova", sans-serif;
+  padding: 10px;
+}
+
+.box p {
+  font-size: 35px;
+  margin: 0;
+  font-family: "Podkova", sans-serif;
+}
+
+.text {
+  font-size: 15px;
+  font-family: "Podkova", sans-serif;
+}

@@ -1,0 +1,34 @@
+{
+    "fvv": 1,
+    "pageHistory": 0,
+    "fbzx": "-8387862245863364543",
+    "action": "e/1FAIpQLSfW_d0XhPjPI-MpvgjeJiy2HY1dxE6TuhiYJdsGnuom_IsNnQ",
+    "fields": [
+        {
+            "label": "Ваше имя ",
+            "type": "SHORT_ANSWER",
+            "id": "929664963",
+            "required": false
+        },
+        {
+            "label": "Просим Вас выбрать салат. Остальные блюда можно будет выбрать непосредственно в ресторане. ",
+            "type": "CHECKBOX",
+            "id": "329462997",
+            "options": [
+                {
+                    "label": "Салат с лососем",
+                    "custom": false
+                },
+                {
+                    "label": "Салат из печени фермерского цыпленка с малиновым соусом",
+                    "custom": false
+                }
+            ],
+            "required": true
+        }
+    ],
+    "fieldsOrder": {
+        "329462997": 1,
+        "929664963": 0
+    }
+}
